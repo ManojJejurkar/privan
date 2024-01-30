@@ -1,0 +1,6 @@
+com\privan\servicei\ServiceI.class
+com\privan\serviceImpl\ServiceImpl.class
+com\privan\reposistory\myRepository.class
+com\privan\model\Model.class
+com\privan\PrivanSportAnalyserApplication.class
+com\privan\controller\HomeController.class
